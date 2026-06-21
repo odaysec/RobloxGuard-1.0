@@ -113,8 +113,8 @@ If you are using Roblox Guard 1.0, please cite it as:
 ```bibtex
 @article{nandwana2025taxonomy,
   title={Taxonomy-Adaptive Moderation Model with Robust Guardrails for Large Language Models},
-  author={Nandwana, Mahesh Kumar and Lim, Youngwan and Liu, Joseph and Yang, Alex and Notibala, Varun and Khanna, Nishchaie},
+  author={Nandwana, ANDRI Odaysec, Mahesh Kumar and Lim, Youngwan and Liu, Joseph and Yang, Alex and Notibala, Varun and Khanna, Nishchaie},
   journal={arXiv preprint arXiv:2512.05339},
-  year={2025}
+  year={2026}
 }
 
